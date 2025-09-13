@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "title": "Nano-Banana Figurine",
+        "description": "Using the nano-banana model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is the brush modeling process of this figurine. Next to the computer screen is a BANDAl-style toy packaging box printed with the original artwork. The packaging features two-dimensional flat illustrations. Please turn this photo into afigure. Behind it, there should be a Model packaging box with the character from this photo printed on it. In front of the box on a round plastic base place the figure version of the photo I gave you. I’d like the PVC material to be clearly represented. It would be even better if the background is indoors.",
+        "image": "assets/imgs/img1.webp",
+        "category": "3d-statue"
+    },
+    {
+        "id": 2,
+        "title": "Golden Your Glow",
+        "description": "Golden your glow. The background is minimalist and slightly textured the expression on her face in moody calm yet happy and introspective.",
+        "image": "assets/imgs/img2.webp",
+        "category": "portrait"
+    },
+    {
+        "id": 3,
+        "title": "Retro Artistic Portrait",
+        "description": "Uploaded no alteration 100 percent same. The background is plain, warm toned wall. Illuminated by the warm light source of light from the right. Creating a distinct, soft-edged shadow of her profile and long hair on behind hair. The overall mood is retro and artistic.",
+        "image": "assets/imgs/img3.webp",
+        "category": "portrait"
+    },
+    {
+        "id": 4,
+        "title": "Hyper-Realistic Statue",
+        "description": "Create a giant hyper-realistic statue based on the given photo, keeping the original face exactly the same without changes. The statue stands tall in the middle of a roundabout in Dhaka, near a famous historical landmark. The statue is still under construction, surrounded by scaffolding, with many construction workers in yellow helmets and orange vests climbing, welding, and working on it. Parts of the statue's body are still exposed metal framework, while other sections are already detailed and finished. The background shows the realistic atmosphere of a city: crowded streets with colorful rickshaws, packed buses, and small cars circling the roundabout. Street vendors with tea stalls, fruit carts, and colorful umbrellas line the roadside. Shop signs, big billboards, and messy hanging electric wires crisscross above the streets, creating the typical Bangalore city vibe. The bright daytime sky shines above, with tropical trees and a bustling, lively atmosphere. Style: photorealistic, vibrant, and full of life.",
+        "image": "assets/imgs/img4.webp",
+        "category": "3d-statue"
+    },
+    {
+        "id": 5,
+        "title": "Elegant Indian Woman Portrait",
+        "description": "Convert, 4k HD realistic stunning portrait of a young Indian woman with long dark straight hair cascading over her shoulders, she is wearing a translucent, elegant blue saree draped over one shoulder, revealing a fitted blouse underneath, white flowers are tucked behind her right ear, she is looking slightly to her right, with a soft, serene expression, I want same face as I uploaded no alteration 100 percent same. The background is a plain, warm-toned wall, illuminated by a warm light source from the right. Creating a distinct soft-edged shadow of her profile and hair on the wall behind her. The overall mood is retro and artistic.",
+        "image": "assets/imgs/img5.webp",
+        "category": "portrait"
+    },
+    {
+        "id": 6,
+        "title": "Vintage Brown Saree Aesthetic",
+        "description": "Create a retro vintage grainy but bright image of the reference picture but draped in a little transparent plain perfect brown color Pinterest aesthetic retro saree. It must feel like a 90s movie brown hair baddie with a small flower tucked visibly into her curls and romanticizing windy environment. And make her hair flow in air. The girl is standing against a solid wall, deep shadows and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with golden tones evoking a sunset or golden hour glow. The background is minimalist and slightly textured. The expression on her face is moody, calm yet happy and introspective.",
+        "image": "assets/imgs/img6.webp",
+        "category": "portrait"
+    },
+    {
+        "id": 7,
+        "title": "Figurine & Real Person Scene",
+        "description": "Create a 1/7 scale commercialized figurine of (the character in the picture), realistic style, in a real environment. Figurine placed on a computer desk, has a round transparent acrylic base. Next to the desk is the real person in the picture, in real life size with the same attire as in the picture and the figurine, cleaning the figurine carefully with a fine brush, in a modern styled studio room, brightly lit. With some collection of toys and action figures in the background.",
+        "image": "assets/imgs/img7.webp",
+        "category": "3d-statue"
+    },
+    {
+        "id": 8,
+        "title": "Cinematic Black & White Portrait",
+        "description": "A surreal black and white cinematic portrait of a young man (same as reference photo) wearing headphones, eyes closed, lost in music. He is standing in a dimly lit room with a stack of books on a table beside him. Papers and books float around in mid-air, creating a dreamy motion blur effect. The lighting is dramatic, soft glow on his face, highlighting his relaxed expression. His shirt is loose and open, adding to the moody artistic vibe.",
+        "image": "assets/imgs/img8.webp",
+        "category": "portrait"
+    },
+    {
+        "id": 9,
+        "title": "Retro Red Kurta Boy",
+        "description": "Create a retro vintage grainy but bright image based on the reference picture but with the boy wearing a perfect plain red kurta in a Pinterest aesthetic, retro style reminiscent of a 90s movie. The boy has black with brown shade hair, romanticizing the windy environment. He is standing against a solid wall with deep shadows and high contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with golden tones evoking a sunset or golden hour glow. The background is minimalist and slightly textured, and the expression on his face is moody, calm yet happy and introspective.",
+        "image": "assets/imgs/img9.webp",
+        "category": "portrait"
+    },
+    {
+        "id": 10,
+        "title": "Traditional Indian Kurta Pajama",
+        "description": "Create a full body retro vintage grainy but bright image of the reference picture styled in a classic traditional Indian kurta pajama. The outfit should be a rich, deep-toned kurta (like maroon or mustard) with subtle embroidery details, paired with crisp white details, paired with crisp white pajama. The look must feel like a 90s Bollywood hero aesthetic sharp, charismatic, and slightly romantic. Hair styled naturally with a soft wind brushing through, adding movement. The man is standing against a solid wall with deep shadows and dramatic contrast, he looks a soft left side but body straight & Right hand on pocket, evoking a mysterious yet artistic retro atmosphere. The overall vibe should feel timeless, cinematic, and culturally rooted.",
+        "image": "assets/imgs/img10.webp",
+        "category": "portrait"
+    },
+    {
+        "id": 11,
+        "title": "Retro Couple Aesthetic",
+        "description": "Create a retro vintage grainy but bright image of the reference picture with the girl draped in a perfect plum brown chiffon saree and the boy in a brown suit, intricately aesthetic retro saree vibe, feeling like a 90s movie with dark brown wavy curly hair and a small flower tucked visibly into her curls, romanticizing a windy environment; the girl is standing against a solid wall with deep shadows and contrast drama, creating a mysterious and artistic atmosphere where the lighting is warm with golden tones evoking a sunset or golden hour glow, the background is minimalist and slightly textured, and the expression on her face is moody, calm yet happy and introspective.",
+        "image": "assets/imgs/img11.webp",
+        "category": "portrait"
+    },
+    {
+        "id": 12,
+        "title": "Confident Young Man in Studio",
+        "description": "A hyper-realistic image of a confident, stylish young man (face should match the uploaded reference image) sitting on a luxurious dark brown leather chesterfield sofa in a dimly lit, opulent room. He is dressed sharply in a black suit with a white shirt slightly unbuttoned, wearing black leather shoes, a wristwatch, and dark sunglasses. His pose is relaxed, with one leg crossed and one arm casually resting on the armrest. The setting features a dark, moody background with rich black walls, a classic chandelier with warm glowing bulbs hanging above, and a gothic-style painting of a hooded skull figure behind him. The atmosphere is intense, cinematic, and mysterious, with dramatic lighting emphasizing elegance, power, and control.",
+        "image": "assets/imgs/img12.webp",
+        "category": "portrait"
+    },
+    {
+        "id": 13,
+        "title": "Photo Next to Shahrukh Khan",
+        "description": "A highly realistic cinematic photo of a young stylish man wearing a dark shirt and hat, standing next to Shahrukh Khan. Both are smiling naturally and looking towards the camera. The background is a scenic European street with old buildings, soft sunlight, and a slightly blurred bokeh effect. The atmosphere should feel warm, modern, and realistic like a professional photoshoot.",
+        "image": "assets/imgs/img13.webp",
+        "category": "portrait"
+    }
+]
