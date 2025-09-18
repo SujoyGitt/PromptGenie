@@ -89,5 +89,12 @@
         "description": "A highly realistic cinematic photo of a young stylish man wearing a dark shirt and hat, standing next to Shahrukh Khan. Both are smiling naturally and looking towards the camera. The background is a scenic European street with old buildings, soft sunlight, and a slightly blurred bokeh effect. The atmosphere should feel warm, modern, and realistic like a professional photoshoot.",
         "image": "assets/imgs/img13.webp",
         "category": "portrait"
+    },
+    {
+        "id": 14,
+        "title": "Photo Next to Shahrukh Khan",
+        "description": "Ultra-realistic 4K portrait of a young Indian man, keeping the uploaded face with 100% accuracy. He is standing casually against a plain textured wall, bathed in soft golden-hour sunlight that creates dramatic warm shadows. He wears a crisp white linen shirt, slightly unbuttoned at the top, paired with high-waisted cream trousers. His hands rest in his pockets, giving a relaxed yet confident retro look. His hair is styled in a tousled, natural way, with sunlight catching the edges. The aesthetic is cinematic, vintage, and editorial, with warm tones, soft grain, and timeless masculine elegance.",
+        "image": "assets/imgs/img14.webp",
+        "category": "portrait"
     }
 ]
