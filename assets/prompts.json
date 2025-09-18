@@ -96,5 +96,12 @@
         "description": "Ultra-realistic 4K portrait of a young Indian man, keeping the uploaded face with 100% accuracy. He is standing casually against a plain textured wall, bathed in soft golden-hour sunlight that creates dramatic warm shadows. He wears a crisp white linen shirt, slightly unbuttoned at the top, paired with high-waisted cream trousers. His hands rest in his pockets, giving a relaxed yet confident retro look. His hair is styled in a tousled, natural way, with sunlight catching the edges. The aesthetic is cinematic, vintage, and editorial, with warm tones, soft grain, and timeless masculine elegance.",
         "image": "assets/imgs/img14.webp",
         "category": "portrait"
+    },
+    {
+        "id": 15,
+        "title": "A stylish young man with wavy hair and a very little beard",
+        "description": "A stylish young man with wavy hair and a very little beard, sitting confidently on a vintage suitcase in a sunlit room. He is wearing a dark blazer over a partially unbuttoned navy shirt, paired with beige trousers and a brown belt. The sunlight casts strong geometric shadows on the wall, creating a warm, cinematic, and minimalist atmosphere. Fashion editorial, modern masculine elegance, golden hour lighting.",
+        "image": "assets/imgs/img15.webp",
+        "category": "portrait"
     }
 ]
